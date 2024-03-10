@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Charp 21 - Banco de Dados.iml" filepath="$PROJECT_DIR$/Charp 21 - Banco de Dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
     </modules>
   </component>
 </project>

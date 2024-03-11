@@ -46,7 +46,7 @@
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "openjdk-21",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/amorim/IdeaProjects/Charp 21 - Banco de Dados/JDBC - 2 - Inserir Dados/src",
+    "last_opened_file_path": "/home/amorim/Downloads/jar_files/mysql-connector-java-8.0.27.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,11 +66,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JDBC - 3 - Atualizar Dados/src" />
       <recent name="$PROJECT_DIR$/JDBC - 2 - Inserir Dados/src" />
       <recent name="$PROJECT_DIR$/JDBC - 2 - Inserir Dados1" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/.idea" />
-      <recent name="$PROJECT_DIR$/JDBC/src" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -90,7 +90,7 @@
       <updated>1710026754167</updated>
       <workItem from="1710026755212" duration="2928000" />
       <workItem from="1710096528163" duration="9847000" />
-      <workItem from="1710160597168" duration="6357000" />
+      <workItem from="1710160597168" duration="7727000" />
     </task>
     <servers />
   </component>

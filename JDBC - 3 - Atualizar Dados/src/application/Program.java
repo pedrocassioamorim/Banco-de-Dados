@@ -26,7 +26,7 @@ public class Program {
 
             st.setString(1, "Pedro Amorim");
             st.setString(2, "amorim@gmail.com");
-            st.setDate(3, new java.sql.Date(sdf.parse("29/09/1995").getTime()));
+            st.setDate(3, new Date(sdf.parse("29/09/1995").getTime()));
             st.setDouble(4, 15000.0);
             st.setInt(5, 2);
 
@@ -55,7 +55,7 @@ public class Program {
             throw new DBException(e.getMessage());
         }
         finally {
-
+           
             DB.closeStatement(st);
             DB.closeConnection();
         }

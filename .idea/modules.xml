@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Charp 21 - Banco de Dados.iml" filepath="$PROJECT_DIR$/Charp 21 - Banco de Dados.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC - 1 - Recuperar Dados/JDBC - 1 - Recuperar Dados.iml" filepath="$PROJECT_DIR$/JDBC - 1 - Recuperar Dados/JDBC - 1 - Recuperar Dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC - 2 - Inserir Dados/JDBC - 2 - Inserir Dados.iml" filepath="$PROJECT_DIR$/JDBC - 2 - Inserir Dados/JDBC - 2 - Inserir Dados.iml" />
     </modules>
   </component>
 </project>

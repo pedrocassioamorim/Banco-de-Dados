@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/JDBC - 2 - Inserir Dados/JDBC - 2 - Inserir Dados.iml" filepath="$PROJECT_DIR$/JDBC - 2 - Inserir Dados/JDBC - 2 - Inserir Dados.iml" />
       <module fileurl="file://$PROJECT_DIR$/JDBC - 3 - Atualizar Dados/JDBC - 3 - Atualizar Dados.iml" filepath="$PROJECT_DIR$/JDBC - 3 - Atualizar Dados/JDBC - 3 - Atualizar Dados.iml" />
       <module fileurl="file://$PROJECT_DIR$/JDBC - 4 - Deletar Dados/JDBC - 4 - Deletar Dados.iml" filepath="$PROJECT_DIR$/JDBC - 4 - Deletar Dados/JDBC - 4 - Deletar Dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC - 5 - Transacoes/JDBC - 5 - Transacoes.iml" filepath="$PROJECT_DIR$/JDBC - 5 - Transacoes/JDBC - 5 - Transacoes.iml" />
     </modules>
   </component>
 </project>

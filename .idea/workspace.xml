@@ -66,11 +66,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JDBC - 5 - Transacoes/src" />
       <recent name="$PROJECT_DIR$/JDBC - 4 - Deletar Dados/src" />
       <recent name="$PROJECT_DIR$/JDBC - 3 - Atualizar Dados/src" />
       <recent name="$PROJECT_DIR$/JDBC - 2 - Inserir Dados/src" />
       <recent name="$PROJECT_DIR$/JDBC - 2 - Inserir Dados1" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -90,7 +90,7 @@
       <updated>1710026754167</updated>
       <workItem from="1710026755212" duration="2928000" />
       <workItem from="1710096528163" duration="9847000" />
-      <workItem from="1710160597168" duration="8339000" />
+      <workItem from="1710160597168" duration="11275000" />
     </task>
     <servers />
   </component>
